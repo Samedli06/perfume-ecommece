@@ -3,7 +3,7 @@ export const products = [
         id: 1,
         name: "İpək Çiçəyi",
         price: 235.00,
-        image: "/images/perfume_floral.png",
+        image: "/perfume_floral.png",
         category: "Qadınlar üçün",
         description: "Zərif qızılgül və jasmin notları ilə zənginləşdirilmiş, ipək kimi yumşaq və qadınsı bir ətir."
     },
@@ -27,7 +27,7 @@ export const products = [
         id: 4,
         name: "Mistik Qızılgül",
         price: 265.00,
-        image: "/images/perfume_floral.png",
+        image: "/perfume_floral.png",
         category: "Qadınlar üçün",
         description: "Şərq ədviyyatları ilə qarışdırılmış nadir qızılgül növlərinin cazibədar ətri."
     }
