@@ -11,7 +11,7 @@ export const products = [
         id: 2,
         name: "Qara Səndəl",
         price: 320.00,
-        image: "/images/perfume_woody.png",
+        image: "/perfume_woody.png",
         category: "Uniseks",
         description: "Dərin odunsu notlar və ədviyyatların sirli harmoniyası. Gecə üçün mükəmməl seçim."
     },
@@ -19,7 +19,7 @@ export const products = [
         id: 3,
         name: "Sitrus Təravəti",
         price: 210.00,
-        image: "/images/perfume_citrus.png",
+        image: "/perfume_citrus.png",
         category: "Təravətli",
         description: "Limon və berqamotun canlandırıcı partlayışı. Günə enerjili başlamaq üçün idealdır."
     },

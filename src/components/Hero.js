@@ -1,7 +1,7 @@
 export function Hero() {
   return `
     <section class="hero">
-      <img src="/images/hero.png" alt="Luxury Perfume" class="hero-bg">
+      <img src="/hero.png" alt="Luxury Perfume" class="hero-bg">
       <div class="hero-content">
         <span class="hero-subtitle">Yeni Kolleksiya</span>
         <h1 class="hero-title">Zərifliyin Cövhəri</h1>
